@@ -18,7 +18,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends ListActivity {
 
-    private final String BASE_URL = "https://provaddm2018.000webhostapp.com/";
+    private final String BASE_URL = "http://angoti.atwebpages.com/";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
