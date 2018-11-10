@@ -11,11 +11,13 @@
         android:text="@string/lista_de_alunos"
         android:textAlignment="center"
         android:textSize="20dp"
-        android:layout_marginBottom="30dp"/>
+        android:layout_marginBottom="10dp"/>
 
     <ListView
         android:layout_width="wrap_content"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        android:id="@android:id/list"
+        />
 
 
 </LinearLayout>
