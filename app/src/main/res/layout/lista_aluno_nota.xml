@@ -14,11 +14,13 @@
         android:layout_height="match_parent"
         android:id="@+id/aluno"
         android:layout_marginRight="15dp"
-        android:layout_marginLeft="15dp"/>
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:id="@+id/nota"/>
+        android:id="@+id/nota"
+        android:layout_gravity="right"/>
 
 </LinearLayout>
